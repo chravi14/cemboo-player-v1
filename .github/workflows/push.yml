@@ -1,4 +1,4 @@
-name: Pipeline for Cemboo Player
+name: Pipeline for Cemboo Player version - 1
 
 on:
   # Trigger the workflow on push or pull request,
